@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Donation 2.0</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="donateTitle">Donate!</string>
+<!--    <string name="donateSubTitle">"   подайте Христа ради, червонец золотой..."</string>-->
+    <string name="donateButton">Дати</string>
+    <string name="RadioButton">PayPal</string>
+    <string name="RadioButton1">Direct</string>
+    <string name="textMoney">money</string>
+    <string name="total">total</string>
+    <string name="menuReport">Звіт</string>
+    <string name="reportTitle1">Звіти</string>
+</resources>
